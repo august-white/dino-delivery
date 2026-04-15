@@ -16,7 +16,7 @@ const Quote = ({person, title, quote}: QuoteProps) => {
             {title}
         </h4>
         <h2 className='text-red-500 font-bold text-xl py-3 px-4'>
-            "{quote}""
+            &ldquo;{quote}&rdquo;
         </h2>
     </div>
   )

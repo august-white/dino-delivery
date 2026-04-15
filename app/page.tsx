@@ -6,14 +6,14 @@ import Image from "next/image";
 export default function Home() {
     const text = [
         "Overpopulation is a real issue worldwide, causing many deaths around the world due to famine, disease, and lack of available shelter. Dino Delivery is a clean solution to this problem. With each delivery, we make a positive impact on the wider world.",
-        "Here at Dino Delivery, we know reliability is important. That's why we're proud to say that 100% of our deliveries have ended in a successful population decrease!",
-        "But don't take it from us, ask a professtional! Top experts from many fields have glowing reveiws of our product:"
+        "Here at Dino Delivery, we know reliability is important. That&apos;s why we&apos;re proud to say that 100% of our deliveries have ended in a successful population decrease!",
+        "But don&apos;t take it from us, ask a professtional! Top experts from many fields have glowing reveiws of our product:"
     ]
 
     const quotes = [
         ['Officer Rick Donnelly', 'Former Mall Security Supervisor', 'Crime rates drop to nearly zero when everyone is running for their lives. Truly innovative public safety strategy.'],
         ['Dr. Steven Barnes', 'Behavioral Psychologist', 'Nothing motivates community cooperation quite like a six-foot predator in the cul-de-sac.'],
-        ['Dr. Harold Finch', 'Wildlife Management Specialist', "Historically, ecosystems thrive when there's a healthy fear of being hunted at all times."]
+        ['Dr. Harold Finch', 'Wildlife Management Specialist', "Historically, ecosystems thrive when there&apos;s a healthy fear of being hunted at all times."]
     ]
     return (
         <div className='min-h-screen bg-[#191919] text-white'>
