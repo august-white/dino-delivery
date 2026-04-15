@@ -21,7 +21,7 @@ export default function Home() {
             {/* <Combobox /> */}
             <div className='h-screen w-full relative'>
                 <h1 className='absolute top-16 left-6 text-6xl font-extrabold text-red-600 -rotate-6'>OVERPOPULATION IS A REAL ISSUE</h1>
-                <h2 className='absolute top-40 left-6 text-4xl font-bold text-white -rotate-6'>AND WE'RE HERE TO FIX IT</h2>
+                <h2 className='absolute top-40 left-6 text-4xl font-bold text-white -rotate-6'>AND WE&aposRE HERE TO FIX IT</h2>
                 <div className='absolute top-72 right-20 bg-red-800 rounded-full h-52 w-52 p-2 flex items-center'>
                     <h3 className='text-2xl font-bold text-white rotate-6 w-48 text-center justify-center'>Order a velociraptor today. Or, fuck it, get two!</h3>
                 </div>
