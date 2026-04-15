@@ -1,7 +1,5 @@
 import Card from "@/components/card";
-import { Combobox } from "@/components/combobox";
 import Quote from "@/components/quote";
-import Sidebar from "@/components/sidebar";
 
 import Image from "next/image";
 
